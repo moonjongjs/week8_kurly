@@ -1,0 +1,23 @@
+moonjong2.dothome.co.kr/myadmin
+anstjswhd0105#
+
+접속테스트  signup.php
+moonjong2.dothome.co.kr/week8_kurly/signup.php
+
+
+
+데이터베이스 설계
+
+idx   AI 
+문자열 가변길이 VARCHR(16)
+아이디id  문자열 16
+비밀번호pw 문자열16
+이름 name  문자열30
+이메일 email 문자열250
+휴대폰 hp 문자열13 010-7942-5305  
+주소:addr 주소1 + 주소2 문자열500
+성별:gender 문자열4 
+생년월일: birth 생년-생월-생일   2000-10-19 문자열10
+추가입력사항: chooga  문자열250
+이용약관동의: service 문자열 1000 
+가입일: gaib 가입일시분초(db자동저장)
